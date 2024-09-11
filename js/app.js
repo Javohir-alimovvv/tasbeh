@@ -37,9 +37,6 @@ function dilete() {
 
 
 
-// codewarsdan masala yuq sababi oldin uqigan joyimda ishlatgan edi hozir 
-// ishliman desam 6-7 kiyudan beryabdi ishlay olmayabman
-
 // 1#
 
 // function removeChar(str){
